@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>fvzba@uryirpgbe.bet</string>
+	<key>contactName</key>
+	<string>Simon Gregory</string>
+	<key>description</key>
+	<string>An extension to the Twilight theme to complement the ActionScript 3 Bundles syntax highlighting.</string>
+	<key>name</key>
+	<string>HelvectorLight</string>
+	<key>uuid</key>
+	<string>4B8FF9C6-C09D-4E1B-B81A-CA2F996B1B12</string>
+</dict>
+</plist>
